@@ -1,0 +1,28 @@
+name: 'Cornerstone Quotations '
+favicon: null
+layout_spectrum: 0.13327714358456433
+typography_spectrum: 0.1726060549262911
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6743574910797179
+  lightness: 0.7500774038489908
+  saturation: 0.885100306244567
+  rhythmicContrast: 0.3579046460799873
+purpose: []
